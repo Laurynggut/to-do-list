@@ -1,0 +1,4 @@
+ul{
+	/*Lista no ordenada SIN circulitos ni puntitos delante de cada texto*/
+	list-style-type: none;
+}
